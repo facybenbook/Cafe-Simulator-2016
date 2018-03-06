@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Riley\Loot.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Riley\Loot.cs" Line="84" Column="4" />
+      <File FileName="Assets\Scripts\NPCMove.cs" Line="13" Column="51" />
+      <File FileName="Assets\Scripts\MouseLock.js" Line="5" Column="1" />
+      <File FileName="Assets\Scripts\ShowCrosshair.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NPCTimerSpawn.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Riley\ItemClass.cs" Line="18" Column="2" />
+      <File FileName="Assets\Scripts\Riley\InventoryGUI.cs" Line="32" Column="3" />
+      <File FileName="Assets\Scripts\Riley\ChangeCustomerTag.cs" Line="18" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

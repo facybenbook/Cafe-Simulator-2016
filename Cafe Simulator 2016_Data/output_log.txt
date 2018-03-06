@@ -1,0 +1,22 @@
+Initialize engine version: 4.5.1f3 (73cd57f80e3e)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Intel(R) HD Graphics (ID=0x46)
+    Vendor:   Intel
+    VRAM:     64 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Jared Sherwood\Desktop\Cafe Simulator 2016\Cafe Simulator 2016_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Jared Sherwood\Desktop\Cafe Simulator 2016\Cafe Simulator 2016_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Jared Sherwood\Desktop\Cafe Simulator 2016\Cafe Simulator 2016_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Jared Sherwood\Desktop\Cafe Simulator 2016\Cafe Simulator 2016_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Jared Sherwood\Desktop\Cafe Simulator 2016\Cafe Simulator 2016_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Jared Sherwood\Desktop\Cafe Simulator 2016\Cafe Simulator 2016_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Jared Sherwood\Desktop\Cafe Simulator 2016\Cafe Simulator 2016_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Jared Sherwood\Desktop\Cafe Simulator 2016\Cafe Simulator 2016_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Jared Sherwood\Desktop\Cafe Simulator 2016\Cafe Simulator 2016_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Jared Sherwood\Desktop\Cafe Simulator 2016\Cafe Simulator 2016_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.776 seconds
+desktop: 1360x768 59Hz; virtual: 2726x768 at -1366,0
+<RI> Initializing input.
+<RI> Input initialized.

@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\InventoryGUI.cs">
+    <Files>
+      <File FileName="Assets\Scripts\NPCMove.cs" Line="32" Column="3" />
+      <File FileName="..\Cafe Simulator\Assets\Scripts\Riley\Loot.cs" Line="89" Column="30" />
+      <File FileName="Assets\Scripts\ShowCrosshair.cs" Line="24" Column="3" />
+      <File FileName="Assets\Scripts\InventoryGUI.cs" Line="12" Column="48" />
+      <File FileName="Assets\Scripts\Loot.cs" Line="552" Column="3" />
+      <File FileName="Assets\Scripts\ItemClass.cs" Line="7" Column="41" />
+      <File FileName="Assets\Scripts\ChangeCustomerTag.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" Line="59" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
